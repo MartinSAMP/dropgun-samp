@@ -2,7 +2,7 @@
 
 A simple weapon dropping and pickup system for SA-MP roleplay servers.
 
-![Drop Gun System Preview](https://raw.githubusercontent.com/MartinSAMP/dropgun-samp/blob/main/sa-mp-096.png)
+![Drop Gun System Preview](https://raw.githubusercontent.com/MartinSAMP/dropgun-samp/main/sa-mp-096.png)
 
 ## Features
 
